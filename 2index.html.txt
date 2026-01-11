@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css" type="text/css">
+	<title>TRIATHLON</title>
+</head>
+
+            <h1>Longévité et traits physiques</h1>
+			<div id="table_content">
+			<table class="wikitable_alternance">
+				<caption>Différences</caption>
+				<tr>
+					<th>Types</th>
+					<th>Trisomie 8</th>
+					<th>Trisomie 13</th>
+					<th>Trisomie 18</th>
+                    <th>Trisomie 21</th>
+                </tr>
+				<tr>
+					<th>Chromosone concerné</th>
+					<td>8/td>
+					<td>13</td>
+					<td>18</td>
+				    <td>21</td>
+                </tr>
+				<tr>
+					<th>Rareté</th>
+					<td>Très rare et non viable</td>
+					<td>Rare</td>
+					<td>Très rare</td>
+				    <td>Le plus fréquent</td>
+                </tr>
+				<tr>
+					<th>Conséquences</th>
+					<td>Malformations cardiaques
+                        Problèmes osseux ou articulaires
+                        Retard du développement intellectuel</td>
+					<td>Malformations très sévères (cerveau, yeux, visage)
+                        Problèmes cardiaques majeurs
+                        Handicap intellectuel très important</td>
+					<td>Malformations graves (cœur, cerveau, reins)
+                        Retard de croissance important
+                        Handicap intellectuel sévère</td>
+				    <td>Déficience intellectuelle d’intensité variable
+                        Traits du visage caractéristiques
+                        Parfois malformations cardiaques ou digestives</td>
+                </tr>
+				<tr>
+					<th>Longévité</th>
+					<td>normale ou fausse couche</td>
+					<td>très courte</td>
+					<td>très réduite</td>
+				    <td>souvent proche de la normale</td>
+                </tr>
+				
+			</table>
+			
+			<div class="menu">
+			<div class="menu_title">Les disciplines</div>
+			<ul>
+				<li><a href="" class="menu_link">Le</a>Trisomie 8</li>
+				<li><a href="trisomie.html" class="menu_link">Trisomie 13</a></li>
+				<li><a href="trisomie.html" class="menu_link">Trisomie 18</a></li>
+			    <li><a href="trisomie.html" class="menu_link">Trisomie 21</a></li>
+            </ul>
+			
+		    </div>
+			</div>
+		</div>
+    
